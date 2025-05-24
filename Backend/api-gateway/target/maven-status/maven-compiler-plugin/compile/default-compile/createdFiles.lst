@@ -1,0 +1,3 @@
+com\bloodbridge\apigateway\config\SecurityConfig.class
+com\bloodbridge\apigateway\ApiGatewayApplication.class
+com\bloodbridge\apigateway\filter\LoggingFilter.class

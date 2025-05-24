@@ -1,0 +1,10 @@
+com\bloodbridge\notificationservice\service\impl\NotificationServiceImpl.class
+com\bloodbridge\notificationservice\dto\ApiResponse.class
+com\bloodbridge\notificationservice\NotificationServiceApplication.class
+com\bloodbridge\notificationservice\service\NotificationService.class
+com\bloodbridge\notificationservice\controller\NotificationController.class
+com\bloodbridge\notificationservice\entity\Notification.class
+com\bloodbridge\notificationservice\dto\NotificationDTO.class
+com\bloodbridge\notificationservice\entity\Notification$NotificationType.class
+com\bloodbridge\notificationservice\repository\NotificationRepository.class
+com\bloodbridge\notificationservice\entity\Notification$NotificationStatus.class

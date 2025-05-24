@@ -1,0 +1,9 @@
+com\bloodbridge\requestservice\entity\Request$RequestStatus.class
+com\bloodbridge\requestservice\entity\Request.class
+com\bloodbridge\requestservice\service\impl\RequestServiceImpl.class
+com\bloodbridge\requestservice\RequestServiceApplication.class
+com\bloodbridge\requestservice\service\RequestService.class
+com\bloodbridge\requestservice\controller\RequestController.class
+com\bloodbridge\requestservice\dto\RequestDTO.class
+com\bloodbridge\requestservice\repository\RequestRepository.class
+com\bloodbridge\requestservice\dto\ApiResponse.class
