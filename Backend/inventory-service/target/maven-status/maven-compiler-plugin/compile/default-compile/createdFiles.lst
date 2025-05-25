@@ -1,0 +1,8 @@
+com\bloodbridge\inventoryservice\entity\Inventory.class
+com\bloodbridge\inventoryservice\service\InventoryService.class
+com\bloodbridge\inventoryservice\InventoryServiceApplication.class
+com\bloodbridge\inventoryservice\repository\InventoryRepository.class
+com\bloodbridge\inventoryservice\controller\InventoryController.class
+com\bloodbridge\inventoryservice\service\impl\InventoryServiceImpl.class
+com\bloodbridge\inventoryservice\dto\InventoryDTO.class
+com\bloodbridge\inventoryservice\dto\ApiResponse.class
